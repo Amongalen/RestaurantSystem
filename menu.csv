@@ -1,0 +1,15 @@
+%empty lines are to be skipped, so are line starting with %, mistakes/random spaces here and there just for testing
+%category;name;price
+Polish;Pierogi;1300
+polish;barszcz;1100
+Mexican ;tortilla ;1450
+
+drink;cola;600
+mexican; Tacos;1325
+
+italian;pizza;1835
+drink;fanta;550
+italian;spaghetti;1780
+iTalian;small Spaghetti;1320;
+dessert;ice cream;450
+dessert;pudding;500
