@@ -1,4 +1,5 @@
 %empty lines are to be skipped, so are line starting with %, mistakes/random spaces here and there just for testing
+%price is entered in pennies/cents
 %category;name;price
 Polish;Pierogi;1300
 polish;barszcz;1100
