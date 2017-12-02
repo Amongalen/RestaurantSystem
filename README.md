@@ -4,5 +4,6 @@ The whole menu with cuisines, meals and prices is stored in a menu.csv file.
 To add new cuisines or meals you can simply add a new line(s) to that file following this format: 
 
 ```
-category(cuisine);name;price
+category;name;price
 ```
+The *category* may be a drink, a dessert or a name of the cuisine (either new or existing one).
